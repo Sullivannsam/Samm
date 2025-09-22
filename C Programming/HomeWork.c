@@ -52,6 +52,6 @@ int main() {
     else{
         printf("\nYour AVG is: F");
     }
-
+    
     return 0;
 }

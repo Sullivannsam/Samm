@@ -53,5 +53,7 @@ int main() {
         printf("\nYour AVG is: F");
     }
     
+    printf("Hellow");
+
     return 0;
 }
